@@ -1,0 +1,14 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.planets-img {
+  width: 80%;
+}
+.planet-name {
+  color: #f8fafc;
+}
+.description {
+  color: #f1f5f9;
+}
